@@ -1,0 +1,12 @@
+.deleteButton {
+  border-radius: 7px;
+  background-color: white;
+  color: #0a0131ab;
+  border-color: #0a0131ab;
+}
+
+.deleteButton:hover {
+  border-color: #0a0131ab;
+  background-color: #0a0131ab;
+  color: white;
+}

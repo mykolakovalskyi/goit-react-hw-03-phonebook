@@ -1,0 +1,22 @@
+.contactForm {
+  width: 300px;
+  border: 1px solid black;
+  display: flex;
+  flex-direction: column;
+  padding: 15px;
+  gap: 7px;
+}
+
+.submitButton {
+  width: 100px;
+  border-radius: 7px;
+  background-color: white;
+  color: #0a0131ab;
+  border-color: #0a0131ab;
+}
+
+.submitButton:hover {
+  border-color: #0a0131ab;
+  background-color: #0a0131ab;
+  color: white;
+}

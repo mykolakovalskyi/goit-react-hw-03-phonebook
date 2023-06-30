@@ -1,0 +1,13 @@
+.filter {
+  display: flex;
+  flex-direction: column;
+  gap: 7px;
+}
+
+.filterInput {
+  width: 150px;
+}
+
+.filterLabel {
+  font-weight: 500;
+}
