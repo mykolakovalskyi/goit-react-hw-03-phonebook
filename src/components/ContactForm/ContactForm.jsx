@@ -50,9 +50,7 @@ export default class ContactForm extends Component {
           required
           placeholder="Jacob Mercer"
         />
-        <label label htmlFor="number">
-          Number
-        </label>
+        <label htmlFor="number">Number</label>
         <input
           type="tel"
           name="number"
